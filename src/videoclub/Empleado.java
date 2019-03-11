@@ -8,6 +8,11 @@ public class Empleado extends Persona{
 		this.descuento = descuento;
 	}
 	
-	
-	
+	public double getDescuento() {
+		return descuento;
+	}
+	public void setDescuento(double descuento) {
+		this.descuento = descuento;
+	}
+
 }
