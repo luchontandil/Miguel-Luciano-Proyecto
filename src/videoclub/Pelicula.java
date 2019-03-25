@@ -19,7 +19,7 @@ public class Pelicula {
     private boolean disponible;
 
 ////////////////////// GET Y SET \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-    
+  
     public String getId() {
         return id;
     }
